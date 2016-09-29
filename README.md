@@ -1,5 +1,5 @@
 # Getting Started
-## How to Build
+## How to Buil d
 
 
 The generated code has dependencies over external libraries like UniRest. These dependencies are defined in the ```composer.json``` file that comes with the SDK. 
